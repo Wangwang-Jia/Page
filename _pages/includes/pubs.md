@@ -25,7 +25,7 @@
 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026(CCF A)</div><img src='images/CVPR2026.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026(CCF A)</div><img src='images/CVPR2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Geometry-driven OOD Detectors Are Class-Incremental Learners <a href="https://github.com/Wangwang-Jia/GOD">code</a> \\
