@@ -11,6 +11,7 @@
   <ul>
     <li><strong>2024.07</strong>: 🎉 I graduated from CQU!</li>
     <li><strong>2025.02</strong>: 🎉 One paper is accepted by CVPR 2025!</li>
+    <li><strong>2026.02</strong>: 🎉 One paper is accepted by CVPR 2026!</li>
   </ul>
 </div>
 
